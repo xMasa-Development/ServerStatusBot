@@ -1,0 +1,14 @@
+{
+    "client": {
+        "token": "YOUR_BOT_TOKEN",
+        "prefix": "!",
+        "cogs": [
+    "cogs.admin",
+    "cogs.help_command",
+    "cogs.main"
+        ],
+        "owners": [
+            YOUR_DISCORD_ID
+        ]
+    }
+}
